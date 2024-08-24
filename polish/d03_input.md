@@ -19,4 +19,3 @@ w kolejnym komunikacie.
 
 Pamiętaj, że tak otrzymana wartość zawsze będzie stringiem.  Jeżeli chcesz
 zamienić ją na liczbę, możesz posłużyć się funkcją wbudowaną [`int`](https://docs.python.org/3/library/functions.html#int).
-

@@ -33,10 +33,10 @@ Funkcja ta przyjmuje dowolną liczbę argumentów i wypisuje wszystkie na
 ekran, oddzielając je spacjami:
 
 ```python
->>> print(2017)
-2017
->>> print('PyCon PL', 2017)
-PyCon PL 2017
+>>> print(2024)
+2024
+>>> print('PyCon PL', 2024)
+PyCon PL 2024
 ```
 
 Do `print` można przekazywać również zmienne:

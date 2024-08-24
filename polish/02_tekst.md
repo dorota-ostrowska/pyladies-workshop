@@ -19,11 +19,11 @@ przecinków etc. Żeby w Pythonie zdefiniować string, po prostu umieść jakiś
 tekst między znakami `'` (pojedynczy apostrof):
 
 ```python
->>> 'PyLadies 2017'
+>>> 'PyLadies 2024'
 ```
 
 W powyższym stringu znalazły się wielkie i małe litery, odstęp (spacja) oraz
-cyfry.  Istnieją [tysiące znaków](https://pl.wikipedia.org/wiki/Unikod)
+cyfry. Istnieją [tysiące znaków](https://pl.wikipedia.org/wiki/Unikod)
 jakich możesz użyć.
 
 :snake: Zanim przejdziesz dalej spróbuj samodzielnie utworzyć stringi

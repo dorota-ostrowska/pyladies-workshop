@@ -67,9 +67,11 @@ wykonania całego ciągu poleceń.  Python zawsze pokazuje cały traceback, aby
 programista mógł zrozumieć, co poszło nie tak.  Tekst `most recent call last`
 informuje, że ostatnia operacja na liście została wykonana najpóźniej
 spośród wszystkich.
+
 * `File "python", line 1` to właśnie traceback. W naszym
 przypadku jest to tylko jedna linijka.  Widzimy tutaj opis miejsca,
 w którym wystąpił błąd.
+
 * Ostatnia linijka zawiera najważniejszą informację, czyli bezpośrednią
 przyczynę błędu.  Zaczyna się od typu wyjątku.  W tym przypadku to
 `SyntaxError` - błąd składni.  Typ błędu można rozumieć jako kategorię: nie

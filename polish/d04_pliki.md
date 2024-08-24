@@ -147,4 +147,3 @@ związany z plikami - może być częścią dowolnego stringa.
 pierwsza linia
 druga linia
 ```
-

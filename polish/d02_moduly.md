@@ -8,7 +8,7 @@ przeczytasz jak tworzyć moduły i w jaki sposób z nich korzystać.
 
 ## Pisanie modułu
 
-Jeżeli masz na swoim komputerze [program IDLE](./d01_instalacja_pythona.md'),
+Jeżeli masz na swoim komputerze [program IDLE](../d01_instalacja_pythona.md'),
 to pewnie wiesz już, że kod programów napisanych w Pythonie jest zapisywany
 w plikach z rozszerzeniem `.py`.  Jest to konwencja, która pozwala w łatwy
 sposób odróżnić kod Pythona od innych plików, które go nie zawierają.
@@ -71,4 +71,3 @@ modułów.
 Pisząc programy zawsze miej na uwadze, że podział na moduły zwiększa
 czytelność Twojego kodu.  Również Tobie łatwiej będzie wrócić do programu,
 którego kod został w taki sposób uporządkowany.
-

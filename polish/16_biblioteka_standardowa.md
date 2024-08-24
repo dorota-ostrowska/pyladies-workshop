@@ -109,7 +109,7 @@ Aby otrzymać dzisiejszą datę należy wywołać metodę `today` na obiekcie
 
 ```python
 >>> datetime.date.today()
-datetime.date(2017, 8, 13)
+datetime.date(2024, 8, 29)
 ```
 
 Otrzymany w ten sposób obiekt zawiera trzy **atrybuty**: `year`, `month`
@@ -118,11 +118,11 @@ oraz `day`, czyli odpowiednio rok, miesiąc i dzień.
 ```python
 >>> dzisiaj = datetime.date.today()
 >>> dzisiaj.year
-2017
+2024
 >>> dzisiaj.month
 8
 >>> dzisiaj.day
-13
+29
 ```
 
 Metoda `now` na obiekcie `datetime` zwróci nam datę i godzinę, którą mamy
@@ -234,7 +234,7 @@ string) i zwraca losowo wybrany element:
 'm'
 >>> random.choice([9, 7, 5, 3])
 7
->>> random.choice(('pycon', 'pl', '2017'))
+>>> random.choice(('pycon', 'pl', '2024'))
 'pl'
 ```
 
